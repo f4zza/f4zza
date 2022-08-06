@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Andaleeb</h1>
-<h3 align="center">A passionate full stack web developer</h3>
+<h3 align="center">A passionate full stack developer</h3>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/97915769/177173453-a1ed9848-3411-4982-abbe-0fdeb1a8417e.gif"></p>
 
