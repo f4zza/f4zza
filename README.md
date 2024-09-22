@@ -3,10 +3,6 @@
 
 <p align="center"><img src="https://user-images.githubusercontent.com/97915769/177173453-a1ed9848-3411-4982-abbe-0fdeb1a8417e.gif"></p>
 
-<p align="center"> <a href="https://twitter.com/3ndaleb" target="blank"><img src="https://img.shields.io/twitter/follow/3ndaleb?logo=twitter&style=for-the-badge" alt="3ndaleb" /></a> </p>
-
-- 📫 How to reach me- **You can get in touch with me on these limited socials I use or write an email if that's your thing.**
-
 - ⚡ Fun fact- **I love playing video games. I also indulge in lots of outdoor adventures like hiking. I have done a fair bit of Landscape Designing. I always loved idea of creating something unique and fun.**
 
 <h3 align="center">Languages and Tools:</h3>
